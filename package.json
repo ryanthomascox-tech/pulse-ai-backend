@@ -1,0 +1,8 @@
+{
+  "name": "pulse-ai-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "latest"
+  }
+}
